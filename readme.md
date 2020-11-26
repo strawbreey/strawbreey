@@ -24,6 +24,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <!--   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://assets.leetcode.com/static_assets/public/icons/apple-touch-icon-180x180.png" alt="leetcode" width="40" height="40"/>
+  
+  
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawbreey&layout=compact&hide=html" alt="univerone" /></p>
