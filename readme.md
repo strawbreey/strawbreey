@@ -36,6 +36,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawbreey&layout=compact&hide=html" alt="univerone" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawbreey&layout=compact&hide=html" alt="univerone" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawbreey&show_icons=true" alt="strawbreey" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strawbreey&show_icons=true" alt="strawbreey" />
+</p>
