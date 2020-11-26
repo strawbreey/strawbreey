@@ -24,4 +24,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=univerone&layout=compact&hide=html" alt="univerone" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=univerone&show_icons=true" alt="univerone" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strawbreey&show_icons=true" alt="strawbreey" /></p>
