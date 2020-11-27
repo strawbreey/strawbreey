@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [http://note.strawbreey.com/](http://note.strawbreey.com)
 
-- 📫 How to reach me **strawbreey@qq.com**
+- 📫 How to reach me **julystrawbreey@qq.com**
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
